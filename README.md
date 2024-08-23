@@ -184,15 +184,27 @@ Within the options, we have the options in order of top to bottom:
 
 #### Create
 
-Figma works much like photoshop or illustrator where the canvas is laid out in artboards/frames. To create an artboard/frame click on the # icon in the header. Then in the left sidebar you will see a list of frames under the design tab (see below)
+Figma is similar to Photoshop or Illustrator, where you work on a canvas using "artboards" or "frames." Here’s how you can create and use them in simple terms:
 
-Expanding each one out, you will see different options for each, for example, of the 2 most common one - phone and desktop, select desktop and you will see a variety of options. I will pick MacBook 14". Once you click on it, a new artboard/frame will show up on the canvas
+1. **Creating a Frame:**
+   - Click on the `#` icon at the top of the screen (this might look like a "Frame" tool).
+   - On the left side, under the "Design" tab, you'll see a list of different frames (also called artboards). 
 
-Your artboard will act as the base layer although you can have things outside of artboards. 
+2. **Choosing a Frame:**
+   - For example, if you want to design for a desktop, click on "Desktop" and then choose a specific size, like "MacBook 14". When you click on it, a new frame will appear on your canvas.
 
-Alternatively once you # icon in the header, you can draw out a rectangle in the canvas to create a frame. 
+3. **Using the Frame:**
+   - This frame acts as your workspace or base layer where you can add other elements like shapes, text, or images. 
+   - You can also place elements outside the frame if needed.
 
-If you drag or draw a frame in another frame, the new frame will most likely be a child of the parent frame. You can be certain of this if you look in the Layers tab in the left add see the same structure as below
+4. **Drawing a Frame:**
+   - Alternatively, after selecting the `#` icon, you can draw a rectangle directly on the canvas to create a custom-sized frame.
+
+5. **Parent and Child Frames:**
+   - If you drag or create a frame inside another frame, the smaller frame will become a "child" of the larger "parent" frame.
+   - You can check this structure in the "Layers" tab on the left side, where you’ll see how the frames are organized.
+
+This process lets you organize your design elements neatly, especially when working on complex projects with multiple frames.
 
 
 Also note that frames can hold multiple frames and those frames inside can hold multiple frames and so on
