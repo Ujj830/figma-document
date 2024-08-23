@@ -28,7 +28,6 @@ This is a document for using [Figma](https://www.figma.com/) effectively
 </li>
 <li><p><a href='#prototyping'>Prototyping</a></p>
 <ul>
-<li><a href='#micro-interactions'>Micro Interactions</a></li>
 <li><a href='#interactions'>Interactions</a></li>
 <li><a href='#flow'>Flow</a></li>
 </ul>
@@ -63,7 +62,6 @@ This is a document for using [Figma](https://www.figma.com/) effectively
 * [About](#About)
 
 * [Overview](#Overview)
-  * [Navbar](#Navbar)
   * [Sidebar](#Sidebar)
   * [Main Overview](#Main Overview)
 * [Figma Design](#Figma Design)
@@ -72,19 +70,14 @@ This is a document for using [Figma](https://www.figma.com/) effectively
   * [Create Design](#Create Design)
   * [Prototyping](#Prototyping)
     * [Interactions](#Interactions)
-    * [Micro Interactions](#Micro Interactions)
     * [Flow](#Flow)
   * [Demo](#Demo)
   * [Export](#Export)
-* [FigJam](#FigJam)
-  * [Header](#Header2)
-  * [Toolbar](#Toolbar)
-  * [Interactivity](#Interactivity)
-  * [Creating](#Creating)
+* [Toolbar](#Toolbar)
 * [Sharing/Collaborating](#Sharing/Collaborating)
-* [Helpful Commands](#Helpful Commands)
 * [Pricing](#Pricing)
 * [Fonts](#Fonts)
+* [Resources](#Resources)
 
 -->
 
@@ -119,8 +112,6 @@ If you want to create a new team, click create team from above and follow the pr
 <a name=Main Overview></a>
 
 #### Main Overview
-
-![recent]()
 
 In you main overview (see above), we have options to (from top to bottom):
 
