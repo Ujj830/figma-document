@@ -1,6 +1,6 @@
-# Figma Docs 📖
+# Figma Documentation 📖
 
-This is a doc for using [Figma](https://www.figma.com/) effectively
+This is a document for using [Figma](https://www.figma.com/) effectively
 
 <a name=top></a>
 
@@ -85,33 +85,17 @@ This is a doc for using [Figma](https://www.figma.com/) effectively
 * [Helpful Commands](#Helpful Commands)
 * [Pricing](#Pricing)
 * [Fonts](#Fonts)
-* [Misc](#Misc)
-* [Resources](#Resources)
-* [License](#License)
 
 -->
 
 <a name=About></a>
 
-### About
+# About
 
-Figma is a design platform that resembles that of Adobe Illustrator but is easy to share and collaborate. Figma has two main products, Figma Design file and FigJam file. The main file for UX/UI design will be with the design file while the FigJam is more for brainstorming. Currently as of writing, FigJam is in beta testing
+Figma is an online tool that helps people design things like websites and apps. It's popular because it lets multiple people work on the same design at the same time, making teamwork easy. Think of it like a shared workspace where everyone can draw, edit, and make changes together, all in one place.
 
 <a name=Overview></a>
 
-## Overview
-
-There are new FigJam templates but we will stick with a new blank project file to explore the documents from scratch. To start off, sign in or register for a figma account on [figma.com](https://www.figma.com/) landing screen by clicking on Log in or Sign up button on the top right (see below). 
-
-**⚠ NOTE: if you are already logged in you will see the overview screen so you can skip this step**
-
-![landing-page](img/landing-page.png)
-
-Once you are in, you will be presented with the overview screen much like the one below. Of course yours may look slightly different.
-
-![overview](img/overview.png)
-
-<a name=Navbar></a>
 
 #### Navbar
 
@@ -149,7 +133,7 @@ If you want to create a new team, click create team from above and follow the pr
 
 #### Main Overview
 
-![recent](img/recent.png)
+![recent]()
 
 In you main overview (see above), we have options to (from top to bottom):
 
