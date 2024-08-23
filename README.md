@@ -13,7 +13,6 @@ This is a document for using [Figma](https://www.figma.com/) effectively
 </li>
 <li><p><a href='#overview'>Overview</a></p>
 <ul>
-<li><a href='#navbar'>Navbar</a></li>
 <li><a href='#sidebar'>Sidebar</a></li>
 <li><a href='#main-overview'>Main Overview</a></li>
 </ul>
@@ -38,17 +37,9 @@ This is a document for using [Figma](https://www.figma.com/) effectively
 </li>
 </ul>
 </li>
-<li><p><a href='#figjam'>FigJam</a></p>
-<ul>
-<li><a href='#Header2'>Header</a></li>
 <li><a href='#toolbar'>Toolbar</a></li>
-<li><a href='#interactivity'>Interactivity</a></li>
-<li><a href='#creating'>Creating</a></li>
-</ul>
-</li>
 <li><p><a href='#sharingcollaborating'>Sharing/Collaborating</a></p>
 </li>
-<li><p><a href='#helpful-commands'>Helpful Commands/Shortcuts</a></p>
 </li>
 <li><p><a href='#pricing'>Pricing</a></p>
 </li>
@@ -268,13 +259,11 @@ To start creating a design (UI part), using the the frame we created previously.
 
    4. If you covered the text, you see it again by changing the ordering of the objects by pressing <kbd>ctrl-[</kbd> with the rectangle selected. This will bring the object behind/back a layer. If you do <kbd>ctrl-]</kbd>, you will move it forward a layer. This can also be done by moving the object in the layers tab up or down
 
-      ![ordering](img/ordering.gif)
 
    5. Now we can look at some ways to change the look of the button
 
    6.  Now we can explore the design tab in full detail
 
-      ![colored](img/colored.jpg)
 
       * Starting from the top (brown section), we have the alignment tickets. This aligns the current objects to the artboard (all items individually unless they are grouped)
       * the x and y position of the object, the width/height (and a lock aspect ratio toggle), angle and if it is a shape, there will be a rounded corner option
@@ -286,11 +275,9 @@ To start creating a design (UI part), using the the frame we created previously.
 
    7. For our button we need to round the corner so turn it to the max (45 for me). If you want to decouple the corner (ie round on all corners except 1, click on the fullscreen icon on below and change the respective corner [see below])
 
-      ![corners](img/corners.png)
 
    8. Next we want to select the color to be a cool blue to contrast the red. We select the fill color and will see the color picker pop up. 
 
-      ![colorPicker](img/colorPicker.png)
 
       Within the color picker we can select the color directly or paste in the values. We can also see a quick palette of colors. In addition if we click solid on the top right we can change it to a gradient (currently supported gradients are linear, circular/radial, angular, and diamond)
 
@@ -366,21 +353,16 @@ After clicking on this, you will be launched into the interactive mode on a new 
 
 To export a frame or whatever you have selected as svg, png, jpeg, or pdf, all that you want exported selected then go to Design->Export and select the export options
 
-![export](img/export.png)
 
 To export you project as .fig (Figma's proprietary file format) click on the Figma icon->File->Save local copy...
 
 You can also export certain sections by using the slice tool under the same dropdown as frame in the header
-
-![slice](img/slice.png)
 
 Congrats on completing your first Design on Figma 🎉
 
 <a name=Toolbar></a>
 
 ### Toolbar
-
-![toolbar](img/toolbar.png)
 
 The tool bar contains (from left to right):
 
@@ -415,8 +397,6 @@ Figma has **3 tiers** for both Figma and FigJam.
 3. Figma Organization - enterprise edition with SSO and organization level libraries
 
 ⚠ Note for **STUDENTS OR EDUCATORS**, Figma profession is **FREE** ⚠
-
-![pricing](img/pricing.png)
 
 <a name=Fonts></a>
 
