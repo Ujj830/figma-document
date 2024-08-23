@@ -55,12 +55,6 @@ This is a doc for using [Figma](https://www.figma.com/) effectively
 </li>
 <li><p><a href='#fonts'>Fonts</a></p>
 </li>
-<li><p><a href='#misc'>Misc</a></p>
-</li>
-<li><p><a href='#resources'>Resources</a></p>
-</li>
-<li><p><a href='#license'>License</a></p>
-</li>
 </ul>
 </details>
 
@@ -767,28 +761,6 @@ Figma has many fonts coming from Google fonts. If you have a custom font in mind
 1. download the [Figma desktop](https://www.figma.com/downloads/) app to edit custom text (although you can view it in the browser version)
 2. or download the font installer [here](https://www.figma.com/downloads/) and reload all Figma tabs
 
-<a name=Misc></a>
-
-## Misc
-
-* Figma files can be shared via a .fig file format by clicking on the Figma Icon and selecting file->Save local copy...
-
-* Also note that Figma has a desktop version (probably an [electron](https://www.electronjs.org/) port of the website) for MacOS and Windows
-
-* Figma is a pretty good alternative to Adobe Illustrator, in fact in some capacities it is more capable 
-
-* To change the background color of the canvas on Figma, have nothing selected and you will see Background in the Design tab. Here you can then change the color
-
-* If you want a grid to better align items, you can select an artboard and there will be a section called Layout grid
-
-  ![col](img/col.png)
-
-  Here you can have a grid, column or row overlaid on the artboard and the align the items to your liking
-
-* If you are implementing the design of the Figma file, we can go to the Inspect tab of the design file to get the code of how it's visualized. Most useful will probably be the CSS but you can also see the Android or iOS versions of the design
-
-![css](img/css.png)
-
 <a name=Resources></a>
 
 ## Resources
@@ -796,8 +768,6 @@ Figma has many fonts coming from Google fonts. If you have a custom font in mind
 General Figma docs: https://help.figma.com/hc/en-us
 
 Installing Fonts: https://help.figma.com/hc/en-us/articles/360039956894-Access-local-fonts-on-your-computer
-
-Figma micro interactions: https://www.youtube.com/watch?v=LnPEGhE90r4
 
 Figma desktop: https://www.figma.com/downloads/
 
@@ -807,20 +777,9 @@ Demo Figma Design: https://www.figma.com/file/N6G6bxYLtO6zXVyP0gReRg/Jam-Site?no
 
 Demo Figma Design .fig file: https://github.com/Zeyu-Li/figma-docs/releases/tag/1.0 (called demo.fig)
 
-Demo FigJam: https://www.figma.com/file/BV4J8vUTylqb8kx4M9CIgc/Jamming-Out-%F0%9F%8D%93?node-id=0%3A1
 
-Demo FigJam file: https://github.com/Zeyu-Li/figma-docs/releases/tag/1.0 (called demo.jam)
 
 [**🔝 Back to Top**](#top)
 
-<a name=License></a>
-
-## License
-
-This tutorial is under [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-
-## Contribute
-
-If you notice an inaccuracy or misspelling, create a PR and I will get around to it soon
 
 Thanks <3 
