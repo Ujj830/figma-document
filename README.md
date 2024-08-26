@@ -87,11 +87,11 @@ Figma is an online tool that helps people design things like websites and apps. 
 
 Moving on to the sidebar, you can see in order of top to bottom
 
-* your recent files (will be default to this page)
+* your recent files
 * current drafts
 * explore community templates and plugins
 * advert to upgrade to figma
-* a list of teams you are in or have created and the projects belonging to that team (ie for the above example (red) Team project is a project under my team Calgary heist)
+* a list of teams you are in or have created and the projects belonging to that team
 * a button to create a new team
 
 ⚠ Note: a team can have multiple project which can contain multiple project files
